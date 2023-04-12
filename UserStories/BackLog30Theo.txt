@@ -1,0 +1,34 @@
+Back log 30 
+
+- Mario saute 
+- Mario avance 
+- Mario recule
+- Déplacement sur une grille
+- Interaction avec trou
+- Interaction avec lave
+- Interaction avec boss
+- Carapace verte interaction
+- Interaction object fleur de feu
+- Interaction champignon
+- Interaction avec etoile 
+- Ajout de 
+- Interaction de Mario avec ennemi
+- Interaction avec objet
+- Changement de carte via tuyau
+- Ennemie mouvement
+- Ennemi design
+- Ennemi sound
+- Mario sound
+- Music background
+- Choisir carte a joue dans le menu
+- Animation des cinématiques
+- Démarrage du jeu
+- Gestion du score perte de vie
+- Gestion des points
+- Gestion du temps sur chaque map
+- Gestion de la fin de map
+- Animation de fin de carte
+- Création Maps
+- Création du Menu 
+- 
+- 
