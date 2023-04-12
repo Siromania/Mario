@@ -17,10 +17,10 @@
 - 17 - in game - blocsuprise - lorsque mario frappe par dessous le bloc surprise, alors celle si apparaît au dessus du bloc
 - 18 - in game - ennemies - one is turtle
 - 19 - in game - ennemies turtle - when top is hit by mario then become a shell
-- 20 - in game - surprise - coins is 200 points
-- 21 - in game - surprise - red mushroom - when little mario touchs it, mario growths, becomes big mario
+- 20 - in game - bloc surprise - coins is 200 points
+- 21 - in game - bloc surprise - red mushroom - when little mario touchs it, mario growths, becomes big mario
 - 22 - in game - timer, when level begging, timer is set to 400 secondes
-- 23 - in game - surprise - green mushroom - adds 1 life to Mario's life
+- 23 - in game - bloc surprise - green mushroom - adds 1 life to Mario's life
 - 24 - in game - bloc - if big mario hit with his head a bloc, then bloc breaks
 - 25 - in game - bloc - if little mario hits with his head the bottom of a bloc the bloc doesnt break
 - 26 - in game - mario above bloc - mario can walk above a bloc
@@ -28,3 +28,6 @@
 - 28 - in game - big mario can jump higher than little mario
 - 29 - in game - littl mario hit by an enemies - die
 - 30 - in game - big mario hit by an enemis - becomes little mario
+- 31 - in game - if mario falls in a hole it dies
+- 32 - in game - bloc surprise - star : makes mario invincible during a given time
+- 
