@@ -9,6 +9,15 @@
 - 9 - Lobby - en pressant la touche a, je valide le choix du niveau (mario est alors placé devant celui ci)
 - 10 - in game - l'image de mario apparaît à gauche de l'écran
 - 11 - in game - l'image du décors apparaît en arrière plan
-- 12 - in game - les obstacles sont chargés au fur et à mesure que mario marche à droite
+- 12 - in game - de nouveaux obstacles sont affichés au fur et à mesure que mario marche vers la droite et les obstacles
 - 13 - in game - les ennemis sont chargés au fur et à mesure du scroll à droite
 - 14 - in game - lorsque le bas du sprit de mario touche le haut du sprite d'un ennemi celui-ci réagit
+- 15 - in game - bloc - les blocs sont des obstacles du jeu
+- 16 - in game - blocsurprise - certaines bloc contiennent une surprise, soit une pièce soit autre chose
+- 17 - in game - blocsuprise - lorsque mario frappe par dessous le bloc surprise, alors celle si apparaît au dessus du bloc
+- 18 - in game - ennemies - one is turtle
+- 19 - in game - ennemies turtle - when top is hit by mario then become a shell
+- 20 - in game - surprise - coins is 200 points
+- 21 - in game - surprise - red mushroom - when little mario touchs it, mario growths, becomes big mario
+- 22 - in game - timer, when level begging, timer is set to 400 secondes
+- 23 - in game - surprise - green mushroom - adds 1 life to Mario's life
