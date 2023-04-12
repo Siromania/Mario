@@ -1,0 +1,27 @@
+- l'utilisateur lance le jeu et accede a un menu
+	- il peut commencer une nouvelle partie
+		- il peut sauver une partie
+		- il peut bouger un avatar vers la gauche ou vers la droite
+			- la camera va suivre l'avatar et rester centreé sur celui ci
+		- il peut faire sauter son avatar pour eviter les enemis
+			- si les enemis percutent l'avatar il perd une vie
+		- si il saute sur un enemis celui ci est detruit
+		- si il consomme un champignon il gagne des points
+		- si il consomme des coeur il gagne des vie
+		- si il tombe dans un ravin il perd une vie
+		- si il tue le boss de fin de niveau il passe au niveau suivant
+	- il peut reprendre une ancienne partie
+		- il accede a une liste de jeu sauvés ou il peut choisir le jeu a reprendre
+	- il peut quitter le jeu
+	- il peut acceder au options du jeu
+		- il peut modifier les options graphiques
+			- il peut modifier la resolution de l'ecran
+			- il peut modifier le taux de rafrachissement
+			- il peut modifier la qualité de l'affichage
+		- il peut modifier les options d'accesibilité
+			- il peut changer le language d'affichage du jeu
+			- il peut changer la taille des characteres 
+			- il peut activer les sous-titres
+		- il peut modifier les racourcis
+		- il peut modifier les options audio
+
