@@ -1,2 +1,14 @@
 - 1 - menu - je vois un bouton start
-- 2
+- 2 - menu - je vois un bouton quitter
+- 3 - menu - en cliquant sur start le jeu se lance
+- 4 - menu - en arrière plan und décors est affiché
+- 5 - Lobby - je peux déplacer mario pour choisir un niveau
+- 6 - Lobby - mario peut accéder aux niveaux déjà déverouillés et le dernier qu'il n'a pas encore validé
+- 7 - Lobby - en pressant la touche gauche, mario peut se déplacer à gauche
+- 8 - Lobby - en pressant la touche droite, mario peut se déplacer à droite
+- 9 - Lobby - en pressant la touche a, je valide le choix du niveau (mario est alors placé devant celui ci)
+- 10 - in game - l'image de mario apparaît à gauche de l'écran
+- 11 - in game - l'image du décors apparaît en arrière plan
+- 12 - in game - les obstacles sont chargés au fur et à mesure que mario marche à droite
+- 13 - in game - les ennemis sont chargés au fur et à mesure du scroll à droite
+- 14 - in game - lorsque le bas du sprit de mario touche le haut du sprite d'un ennemi celui-ci réagit
