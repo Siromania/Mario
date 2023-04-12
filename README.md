@@ -1,1 +1,1 @@
-# M2I Projet
+# Mario Rush - M2I Projet Scrum
