@@ -21,3 +21,10 @@
 - 21 - in game - surprise - red mushroom - when little mario touchs it, mario growths, becomes big mario
 - 22 - in game - timer, when level begging, timer is set to 400 secondes
 - 23 - in game - surprise - green mushroom - adds 1 life to Mario's life
+- 24 - in game - bloc - if big mario hit with his head a bloc, then bloc breaks
+- 25 - in game - bloc - if little mario hits with his head the bottom of a bloc the bloc doesnt break
+- 26 - in game - mario above bloc - mario can walk above a bloc
+- 27 - in game - little mario can jump
+- 28 - in game - big mario can jump higher than little mario
+- 29 - in game - littl mario hit by an enemies - die
+- 30 - in game - big mario hit by an enemis - becomes little mario
