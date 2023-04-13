@@ -1,0 +1,8 @@
+when mario is
+	on the left of the coopa
+		coopa walks on the left
+	on the right of the coopa
+		coopa walks on the right
+	on above of the coopa
+		coopa keeps it inital movement
+End of coopa behavior
