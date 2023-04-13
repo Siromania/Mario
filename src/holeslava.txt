@@ -1,0 +1,6 @@
+when mario hits hole
+	then die
+hole can be
+	black //normal hole
+	orange // lava
+	
