@@ -5,3 +5,5 @@ lobby called
 			mario moves called
 		arrays of unlock level called
 lobby loaded if all of that is valide
+	when user press a on highlighted level,
+	level is called to start it
