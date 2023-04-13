@@ -1,0 +1,9 @@
+In most Mario games, the player can make Mario jump by pressing the "A" button on a game controller. 
+The height and distance of Mario's jump can be controlled by how long the "A" button is held down.
+
+In some games, Mario can perform additional jumping moves, such as a double jump or a triple jump. 
+These moves require precise timing and button presses to execute properly.
+
+Jumping is a critical gameplay mechanic in the Mario series, 
+as it allows the player to navigate levels, avoid obstacles, 
+and defeat enemies. Mastering Mario's jumping abilities is essential for success in many Mario games.
