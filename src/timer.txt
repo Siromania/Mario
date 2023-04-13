@@ -1,0 +1,5 @@
+var timer = 0;
+when level starts
+	then timer is set to 400
+	and decremete until it reach 0
+		in that case mario die
