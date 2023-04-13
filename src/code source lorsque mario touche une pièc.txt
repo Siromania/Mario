@@ -1,0 +1,1 @@
+ lorsque mario touche une pièce, un son dédié est joué 
