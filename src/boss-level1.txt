@@ -15,6 +15,7 @@ A la fin du dernier niveau de l'univers :
 	Le boss hurle "MOUHAHAHAHAHA"
 	Le boss quitte l'écran par la droite
 	Mario marche jusqu'au centre de l'écran et saute pour célébrer sa victoire
+	la music de victoire commence a jouer
 Fin de l'univers Forêt.
 			
 	
