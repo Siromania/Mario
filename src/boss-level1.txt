@@ -1,0 +1,19 @@
+A la fin du dernier niveau de l'univers :
+
+	Le boss dit "Mario je t'attendais !"
+		Le combat démarre
+			Le boss adopte un comportement basique simple à esquiver
+				si mario saute dessus, alors le boss perd une vie
+			Le boss adopte alors un 2e comportement plus difficile à esquiver
+				si mario saut dessus, alors le boss perd une vie
+			Le boss adopte alors un 3e comportement difficile à esquiver
+				si mario saute dessus, alors le boss perd sa dernière vie
+
+		Le combat est terminé
+	Le boss dit "Mario, on se reverra, je n'ai pas dit mon dernier mot"
+	Le boss hurle "MOUHAHAHAHAHA"
+	Le boss quitte l'écran par la droite
+	Mario marche jusqu'au centre de l'écran et saute pour célébrer sa victoire
+Fin de l'univers Forêt.
+			
+	
