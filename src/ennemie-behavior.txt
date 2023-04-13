@@ -1,0 +1,4 @@
+ennemi apparait à droite à coordonnées indiquées
+ennemi charge son sprite
+ennemi aun comportement de marche
+	coordonnées changent
