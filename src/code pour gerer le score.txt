@@ -1,1 +1,1 @@
-ce code va gerer le code et l'afficher
+ce code va gerer le score et l'afficher
