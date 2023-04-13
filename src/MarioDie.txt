@@ -1,0 +1,14 @@
+Mario can defeat enemies by jumping on them, using power-ups, or using gadgets and vehicles. 
+When Mario successfully defeats an enemy, it typically disappears and sometimes drops coins or other items.
+
+However, it's important to note that not all enemies in the Mario series can be defeated in the same way. 
+Some enemies, such as Goombas or Koopa Troopas, can be defeated by jumping on them, while others, 
+such as Piranha Plants or Bullet Bills, cannot be defeated by jumping alone and require the use of power-ups or other methods.
+
+Furthermore, some enemies in the Mario series cannot be defeated at all and must be avoided or navigated around. 
+For example, Boo ghosts in Super Mario Bros. cannot be defeated by jumping on them, 
+and instead require Mario to use specific tactics to navigate around them.
+
+In general, the Mario series requires the player to use a combination of jumping, 
+power-ups, and other tactics to defeat enemies and overcome obstacles, 
+providing a varied and challenging gameplay experience.y crafted to test the player's skills and provide a sense of satisfaction when overcome.
