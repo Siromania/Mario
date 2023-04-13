@@ -24,3 +24,9 @@ such as throwing shells or riding on Yoshi.
 It's worth noting that while defeating enemies is a key gameplay mechanic in the Mario series, 
 it's not the only objective. Many levels require Mario to navigate obstacles, 
 collect coins, and reach the end goal without necessarily defeating every enemy.
+
+---- Big Mario ---
+
+When head of Big Mario hit the bottom of a normal bloc after he jumped, 
+	the box is destroyed 
+	and generate at the same moment some crumbel to simulate it disapears
