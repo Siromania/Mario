@@ -1,0 +1,11 @@
+Création d'une liste de blocs
+	Chaque bloc à des coordonnées d'affichage
+		Le bloc se superpose à l'image de fond
+
+Lorsque la caméra scroll vers la droite,
+	Les blocs 
+		sortant du champ de la caméra
+			sont effacés
+		entrant dans le champ de la caméra
+			sont affichés
+	
