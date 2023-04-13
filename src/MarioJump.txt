@@ -7,3 +7,20 @@ These moves require precise timing and button presses to execute properly.
 Jumping is a critical gameplay mechanic in the Mario series, 
 as it allows the player to navigate levels, avoid obstacles, 
 and defeat enemies. Mastering Mario's jumping abilities is essential for success in many Mario games.
+
+------------------------- Kill will jumping -------------------------------------------------
+
+In the Mario series, there are various ways for Mario to defeat enemies. 
+The most common method is by jumping on them. When Mario jumps on an enemy, it typically causes the enemy to be defeated, 
+disappear, and sometimes drop coins or other items.
+
+Another way for Mario to defeat enemies is by using power-ups. For example, 
+if Mario collects a fire flower power-up, he can shoot fireballs that can defeat enemies. Similarly, 
+if Mario collects a star power-up, he becomes invincible and can defeat enemies by simply running into them.
+
+In some Mario games, Mario can also use various gadgets or vehicles to defeat enemies, 
+such as throwing shells or riding on Yoshi.
+
+It's worth noting that while defeating enemies is a key gameplay mechanic in the Mario series, 
+it's not the only objective. Many levels require Mario to navigate obstacles, 
+collect coins, and reach the end goal without necessarily defeating every enemy.
