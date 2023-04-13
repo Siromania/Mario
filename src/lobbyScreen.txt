@@ -1,0 +1,9 @@
+lobby called
+	map of level called
+		sprites of levels called
+		mario called
+			mario moves called
+		arrays of unlock level called
+lobby loaded if all of that is valide
+	when user press a on highlighted level,
+	level is called to start it
