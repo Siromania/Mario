@@ -1,0 +1,7 @@
+int life = 0;
+when a level runs
+	print life in top corner left scren
+when lobby
+	print life in top corner left screen
+when loading
+	print life in center middle screen
