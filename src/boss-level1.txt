@@ -1,6 +1,7 @@
 A la fin du dernier niveau de l'univers :
 
 	Le boss dit "Mario je t'attendais !"
+	et la music de boss commence a jouer
 		Le combat démarre
 			Le boss adopte un comportement basique simple à esquiver
 				si mario saute dessus, alors le boss perd une vie
